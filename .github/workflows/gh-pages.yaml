@@ -61,7 +61,8 @@ jobs:
             --minify \
             --theme hubbardton-org/ \
             --themesDir ../../ \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"          
+            --baseURL "${{ steps.pages.outputs.base_url }}/"   
+        working-directory: ./exampleSite       
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
