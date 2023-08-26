@@ -59,7 +59,7 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --theme hugo-theme-notrack/ \
+            --theme hubbardton-org/ \
             --themesDir ../../ \
             --baseURL "${{ steps.pages.outputs.base_url }}/"          
       - name: Upload artifact
