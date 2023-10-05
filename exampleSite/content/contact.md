@@ -1,6 +1,5 @@
 ---
 title: "Contact"
-date: 2020-06-04T23:03:21+02:00
 menu:
   main:
     name: "Contact"
@@ -9,13 +8,20 @@ menu:
 
 {{< contact-box >}}
 
-To the right you see the `contact-box` shortcode demonstrated and
-below is the `social` shortcode. Use which you like more or make your
-own.
+Contact Person: Grace Calvin, President
 
-Repudiandae in pariatur voluptatibus inventore alias. Aut quasi non eos earum
-odio maxime quo molestiae. Velit quidem magnam eos odit. Quisquam deleniti
-officia quia. Harum dolorem est sed. Voluptas esse culpa molestias
-exercitationem libero velit sunt hic.
+The Hubbardton Historical Society office is located at:
+
+    Monument Hill Schoolhouse
+    5568 Monument Hill Road
+    Hubbardton, VT
+
+Our mailing address is:
+
+    Hubbardton Historical Society
+    PO Box 383
+    Castleton, VT 05735
+
+Tel: 802-273-3901 and 802-273-2242
 
 {{< social >}}

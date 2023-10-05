@@ -1,0 +1,17 @@
+---
+title: 'The Battle of Hubbardton'
+Tags: []
+Categories: [events]
+---
+
+American Major General Arthur St. Clair, retreating from Fort Ticonderoga and Mount Independence, had left at Hubbardton about 1000 men to form a rear guard. Through this maneuver, St. Clair was not only able to escape after the British arrived with his weary and tattered main army, but he also stopped the pursuing forces in their tracks.
+
+The American forces at Hubbardton were comprised of Vermont's Colonel Seth Warner with a detachment of Green Mountain Boys; a detail of Massachusetts militia under Colonel Ebenezer Francis; and Colonel Nathan Hale commanding the 2nd New Hampshire Continental Regiment. The pursuing British units of Lieutenant General John Burgoyne's Army were seasoned regulars. Some 850 men were led by Brigadier General Simon Fraser, one of Burgoyne's best line officers. Fraser was ably supported by a detachment of 200 or so Brunswick troops under Major General Baron von Riedesel, a competent field officer.
+
+About dawn, on the morning of the Battle, the stage was set: The British pursued the retreating Americans along the old military road from Mount Independence to Hubbardton. The course of the road is still clearly visible on the hillside across the valley from Monument Hill. As the British column reached Sucker Brook, the Americans were attacked. The Americans then retreated to positions atop Monument Hill, a good spot for a defensive action. The British deployed and attacked the hill, but were immediately repulsed and even pursued in their retreat to their former position. The Americans returned to the hilltop and again the British attacked and were repulsed. Thus the Battle continued for over an hour as the British attempted to flank the American defense. They, in turn, retreated to positions on the fence line east of the Military Road.
+
+At this point the Brunswick troops under von Riedesel reached the scene and immediately attacked the American right with fixed bayonets, band blaring and drums drumming. American Colonel Francis received a mortal wound during the Brunswick attack. By this time, General St. Clair's troops had safely reached Castleton and the American troops could withdraw. Although the American's were defeated, they had actually done precisely what was required in a rear guard action. They had fought the fully deployed enemy to a standstill and had given their main force time to move on. They had done so with skill and courage. Warner's men left the field with a great moral victory.
+
+The Battle of Hubbardton involved about 2,000 troops and resulted in a total of about 600 casualties, or roughly 30 percent of all participating troops. The losses were approximately equal on both sides.
+
+The Hubbardton Battlefield Monument – The monument was erected in 1859. It is constructed from Vermont marble and surrounded by a cast iron fence. The monument marks the place where Colonel Ebenezer Francis is believed to be buried. The leadership qualities and bravery under fire, shown by Colonels Warner and Francis during the conflict, had earned the highest respect of their adversaries. General von Riedesel, a veteran of many European campaigns, had especially admired these two youthful American officers. When Francis' body was found after the battle, Baron von Riedesel personally saw to it that this gallant young Colonel received a Christian burial, with full military honors rendered by a detachment from the Brunswick troops.
