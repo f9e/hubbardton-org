@@ -62,7 +62,7 @@ jobs:
             --baseURL hubbardton.org \
             --theme hubbardton-org/ \
             --themesDir ../../ \
-            --printUnusedTemplates \
+            --printUnusedTemplates 
           ls 
           ls ../
         working-directory: ./exampleSite
