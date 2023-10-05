@@ -59,7 +59,6 @@ jobs:
           ls
           hugo \
             --minify \
-            --baseURL hubbardton.org \
             --theme hubbardton-org/ \
             --themesDir ../../ \
             --printUnusedTemplates 
