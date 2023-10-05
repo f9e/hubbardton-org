@@ -16,6 +16,6 @@ Please check out our sponsors and contributors, who make it possible for us to o
 
 {{<image float="left" width="400px" frame="true" caption="View of Hubbardton" src="img/banner.png" >}}
 
-Our major activities include working with the State of Vermont for Historic Site Preservation and the Living History Association during the re-enactment of the Battle of Hubbardton. Other activities include a monthly newsletter, education, genealogy, local history research, and participation in the annual Vermont History Expo.
+Our major activities include working with the [State of Vermont for Historic Site Preservation](https://historicsites.vermont.gov/) and the Living History Association during the re-enactment of the Battle of Hubbardton. Other activities include a monthly newsletter, education, genealogy, local history research, and participation in the annual Vermont History Expo.
 
 For more information, [contact]({{< ref "contact.md" >}}) us.

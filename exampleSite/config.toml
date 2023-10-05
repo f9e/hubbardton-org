@@ -20,7 +20,7 @@ paginate = 4
   [params.social]
     facebook = "HubbardtonHistoricalSociety"
     email = "history@hubbardton.net"
-    phone = "802-273-3901"
+    phone = "(802) 273-3901"
 
 [taxonomies]
   year = "year"
