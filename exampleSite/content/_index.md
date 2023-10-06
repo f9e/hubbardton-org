@@ -12,7 +12,7 @@ menu:
 
 The Hubbardton Historical Society was organized in 2000. The society records, promotes and preserves the history of the town of Hubbardton. We seek to develop an interest in America's history among young people.  Our headquarters are located next to the Hubbardton Battlefield. We have begun collecting items for a museum.  
 
-{{<image float="left" width="400px" frame="true" caption="View of Hubbardton" src="img/banner.png" >}}
+{{<image float="left" width="200px" frame="true" caption="View of Hubbardton" src="img/banner.png" >}}
 
 Our major activities include working with the [State of Vermont for Historic Site Preservation](https://historicsites.vermont.gov/) and the Living History Association during the re-enactment of the Battle of Hubbardton. Other activities include education, genealogy, local history research, and supporting the Battle of Hubbardton reenactment.
 
