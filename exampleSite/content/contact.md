@@ -6,7 +6,7 @@ menu:
     weight: 255
 ---
 
-{{< contact-box >}}
+
 
 Contact Person: Grace Calvin, President
 
