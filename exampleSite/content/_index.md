@@ -12,10 +12,10 @@ menu:
 
 The Hubbardton Historical Society was organized in 2000. The society records, promotes and preserves the history of the town of Hubbardton. We seek to develop an interest in America's history among young people.  Our headquarters are located next to the Hubbardton Battlefield. We have begun collecting items for a museum.  
 
-Please check out our sponsors and contributors, who make it possible for us to operate our food booth at Hubbardton Battlefield and provide sustenance to all at low prices!
-
 {{<image float="left" width="400px" frame="true" caption="View of Hubbardton" src="img/banner.png" >}}
 
-Our major activities include working with the [State of Vermont for Historic Site Preservation](https://historicsites.vermont.gov/) and the Living History Association during the re-enactment of the Battle of Hubbardton. Other activities include a monthly newsletter, education, genealogy, local history research, and participation in the annual Vermont History Expo.
+Our major activities include working with the [State of Vermont for Historic Site Preservation](https://historicsites.vermont.gov/) and the Living History Association during the re-enactment of the Battle of Hubbardton. Other activities include education, genealogy, local history research, and supporting the Battle of Hubbardton reenactment.
+
+The upcoming Battle of Hubbardton Revolutionary War Encampment will be July 6th-7th 2024. The battle will commence at 7:45AM on July 7th. <!--$8 for adults, $1 ages 6-14, free under age 6, free for Green Mountain  Passport holders.-->
 
 For more information, [contact]({{< ref "contact.md" >}}) us.
