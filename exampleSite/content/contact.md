@@ -22,6 +22,6 @@ Our mailing address is:
     PO Box 383
     Castleton, VT 05735
 
-Tel: 802-273-3901 and 802-273-2242
+Tel: 802-273-2242
 
 {{< social >}}
