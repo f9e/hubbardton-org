@@ -1,8 +1,8 @@
 media:
- exampleSite/static
+ exampleSite/static/
 content:
   - name: posts
     label: Posts
-    path: exampleSite/content
+    path: exampleSite/content/
     type: collection
     fields: [ title ]
