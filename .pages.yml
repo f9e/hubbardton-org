@@ -1,4 +1,7 @@
 media:
  exampleSite/static
 content:
- exampleSite/content 
+  - name: posts
+    label: Posts
+    path: exampleSite/content
+    type: collection
