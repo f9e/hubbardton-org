@@ -5,3 +5,4 @@ content:
     label: Posts
     path: exampleSite/content
     type: collection
+    fields: [ title ]
