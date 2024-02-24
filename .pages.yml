@@ -3,7 +3,5 @@ media:
 content:
   - name: content
     label: Content
-    path: exampleSite/content
+    path: exampleSite/content/_index.md
     type: collection
-    fields:
-      - title
