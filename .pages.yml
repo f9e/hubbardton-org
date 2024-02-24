@@ -1,8 +1,2 @@
 media:
- exampleSite/static/
-content:
-  - name: posts
-    label: Posts
-    path: exampleSite/content/
-    type: file
-    fields: [ title ]
+ exampleSite/static
