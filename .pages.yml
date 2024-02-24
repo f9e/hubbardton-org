@@ -6,4 +6,4 @@ content:
     path: exampleSite/content
     type: collection
     fields:
-      (...)
+      - title
