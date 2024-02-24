@@ -23,7 +23,7 @@ content:
         type: rich-text
   - name: site
     label: Site settings
-    path: 'exampleSite/config.yaml'
+    path: 'exampleSite/config.toml'
     type: file
     fields:
       - name: title
