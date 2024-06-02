@@ -1,6 +1,6 @@
 ---
 title: ""
-date: 2020-06-01T16:16:24+02:00
+date: 2024-06-01T16:16:24+02:00
 draft: false
 menu:
   main:
@@ -16,6 +16,16 @@ The Hubbardton Historical Society was organized in 2000. The society records, pr
 
 Our major activities include working with the [State of Vermont for Historic Site Preservation](https://historicsites.vermont.gov/) and the Living History Association during the re-enactment of the Battle of Hubbardton. Other activities include education, genealogy, local history research, and supporting the Battle of Hubbardton reenactment.
 
-The upcoming Battle of Hubbardton Revolutionary War Encampment will be July 6th-7th 2024. The battle will commence at 7:45AM on July 7th. <!--$8 for adults, $1 ages 6-14, free under age 6, free for Green Mountain  Passport holders.-->
+The upcoming Battle of Hubbardton Revolutionary War Encampment will be July 6th-7th 2024. The battle will commence at 7:30AM on July 7th. 
+
+| Admission         |   |
+|---            |---|
+|Adults (+15y) | $8 | 
+|Kids (6-14)  | $1 |
+|Under 6       | FREE |
+
+**CASH ONLY**
+
+Free for Green Mountain Passport holders.
 
 For more information, [contact]({{< ref "contact.md" >}}) us.
