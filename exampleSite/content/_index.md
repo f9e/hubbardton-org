@@ -19,7 +19,7 @@ Our major activities include working with the [State of Vermont for Historic Sit
 The upcoming Battle of Hubbardton Revolutionary War Encampment will be July 6th-7th 2024. The battle will begin at **7:30AM** on July 7th. 
 
 | Admission     | **CASH ONLY** |
-| ------------- | ------------: |
+|:------------- | ------------: |
 | Adults (15y+) |            $8 |
 | Kids (6-14y)  |            $1 |
 | Kids Under 6  |          FREE |
