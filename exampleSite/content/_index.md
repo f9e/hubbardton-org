@@ -16,7 +16,7 @@ The Hubbardton Historical Society was organized in 2000. The society records, pr
 
 Our major activities include working with the [State of Vermont for Historic Site Preservation](https://historicsites.vermont.gov/) and the Living History Association during the re-enactment of the Battle of Hubbardton. Other activities include education, genealogy, local history research, and supporting the Battle of Hubbardton reenactment.
 
-The upcoming Battle of Hubbardton Revolutionary War Encampment will be July 6th-7th 2024. The battle will begin at **7:30AM** on July 7th. 
+The upcoming Battle of Hubbardton Revolutionary War Encampment will be July 12th-13th 2025. The battle will begin at **7:30AM** on July 13th. 
 
 | Admission     | **CASH ONLY** |
 |:------------- | ------------: |
