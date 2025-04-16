@@ -19,7 +19,7 @@ paginate = 4
 
   [params.social]
     facebook = "HubbardtonHistoricalSociety"
-    email = "history@hubbardton.net"
+    email = "history@hubbardton.org"
     phone = "(802) 273-3901"
 
 [taxonomies]
